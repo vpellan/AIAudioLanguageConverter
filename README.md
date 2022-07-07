@@ -4,7 +4,7 @@ Tool that changes the language of Alien Isolation .pck files by replacing .wem f
 
 ## Introduction
 
-This tool was made right after making [Alien Isolation Cutscenes Language Changer](https://github.com/JeanBombeur45/AI_Cutscenes_Language_Changer)
+This tool was made right after making [Alien Isolation Cutscenes Language Changer](https://github.com/JeanBombeur45/AICutscenesLanguageChanger)
 
 I gained knowledge while coding these tools, and i know that there is much likely way simpler ways to change the language of both audio and cutscenes files without having to change the whole OS language.
 But I often realized after the project was completed. And the original goal of these tools were just for me to play Alien Isolation with original voices without changing my OS language,
